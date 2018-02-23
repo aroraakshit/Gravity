@@ -9,7 +9,7 @@
 title: Akshit Arora
 email: akshit.arora@colorado.edu
 description: Thoughts
-baseurl: "/Gravity/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aroraakshit.github.io" # the base hostname & protocol for your site
 twitter_username: AkshitArora1995
 github_username:  aroraakshit
